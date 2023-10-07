@@ -1,7 +1,7 @@
 {
   "name": "minekhan",
   "version": "1.0.0",
-  "description": "Minecraft for Khan Academy",
+  "description": "🔥 Minecraft for Khan Academy 🔥",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --watch",
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/Willard21/MineKhan.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Minecraft", "Khan Academy", "Education", "Fun"],
+  "author": "FireBot🔥",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Willard21/MineKhan/issues"
